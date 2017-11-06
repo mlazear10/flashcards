@@ -1,15 +1,27 @@
 {
-  "name": "solution",
+  "name": "flashcards",
   "version": "1.0.0",
-  "description": "",
+  "description": "flashcard game using node.js",
   "main": "example.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mike Lazer",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^2.0.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlazear10/flashcards.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mlazear10/flashcards/issues"
+  },
+  "homepage": "https://github.com/mlazear10/flashcards#readme"
 }
