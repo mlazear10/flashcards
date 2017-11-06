@@ -22,5 +22,11 @@
   {
     "partial": "Thomas Edison is credited with the invention of the incandescent lightbulb.",
     "cloze": "Edison"
+  }, {
+    "partial": "Albert Einstein is credited with the Theory of Relativity",
+    "cloze": "Einstein"
+  }, {
+    "partial": "In the beginners mind there are many possiblities, in the experts mind there are few",
+    "cloze": "beginners"
   }
 ]

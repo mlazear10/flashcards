@@ -22,5 +22,11 @@
   {
     "front": "Thomas ... is credited with the invention of the incandescent lightbulb.",
     "back": "Edison"
+  },{
+    "front": "Albert ... is credited with the Theory of Relativity",
+    "back": "Einstein"
+  },{
+    "front": "In the ... mind there are many possiblities, in the experts mind there are few",
+    "back": "beginners"
   }
 ]
